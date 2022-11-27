@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1669570606612" clover="3.2.0">
+  <project timestamp="1669570606612" name="All files">
+    <metrics statements="26" coveredstatements="26" conditionals="30" coveredconditionals="24" methods="23" coveredmethods="23" elements="79" coveredelements="73" complexity="0" loc="26" ncloc="26" packages="3" files="5" classes="5"/>
+    <package name="components.form.button">
+      <metrics statements="7" coveredstatements="7" conditionals="11" coveredconditionals="6" methods="6" coveredmethods="6"/>
+      <file name="index.tsx" path="/home/progrmadorwl/workspace/wltech/cash/src/components/form/button/index.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="18" count="1" type="stmt"/>
+      </file>
+      <file name="styles.tsx" path="/home/progrmadorwl/workspace/wltech/cash/src/components/form/button/styles.tsx">
+        <metrics statements="6" coveredstatements="6" conditionals="10" coveredconditionals="6" methods="5" coveredmethods="5"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="8" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="10" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="16" count="1" type="cond" truecount="2" falsecount="0"/>
+        <line num="17" count="1" type="cond" truecount="1" falsecount="1"/>
+      </file>
+    </package>
+    <package name="components.text">
+      <metrics statements="19" coveredstatements="19" conditionals="19" coveredconditionals="18" methods="17" coveredmethods="17"/>
+      <file name="index.tsx" path="/home/progrmadorwl/workspace/wltech/cash/src/components/text/index.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="24" count="3" type="stmt"/>
+      </file>
+      <file name="styles.ts" path="/home/progrmadorwl/workspace/wltech/cash/src/components/text/styles.ts">
+        <metrics statements="17" coveredstatements="17" conditionals="19" coveredconditionals="18" methods="16" coveredmethods="16"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="10" count="3" type="cond" truecount="1" falsecount="0"/>
+        <line num="11" count="3" type="cond" truecount="1" falsecount="0"/>
+        <line num="12" count="3" type="cond" truecount="1" falsecount="0"/>
+        <line num="13" count="3" type="cond" truecount="1" falsecount="0"/>
+        <line num="14" count="3" type="cond" truecount="1" falsecount="0"/>
+        <line num="15" count="3" type="cond" truecount="1" falsecount="0"/>
+        <line num="16" count="3" type="cond" truecount="1" falsecount="0"/>
+        <line num="17" count="3" type="cond" truecount="1" falsecount="0"/>
+        <line num="18" count="3" type="cond" truecount="1" falsecount="0"/>
+        <line num="19" count="3" type="cond" truecount="1" falsecount="0"/>
+        <line num="20" count="3" type="cond" truecount="1" falsecount="0"/>
+        <line num="21" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="22" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="24" count="3" type="stmt"/>
+        <line num="25" count="3" type="cond" truecount="1" falsecount="0"/>
+      </file>
+    </package>
+    <package name="global.styles">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="theme.ts" path="/home/progrmadorwl/workspace/wltech/cash/src/global/styles/theme.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+  </project>
+</coverage>
